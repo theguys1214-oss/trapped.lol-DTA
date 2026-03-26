@@ -1,1 +1,5 @@
-just
+{
+  "event": "ok",
+  "lua": "print("cool")"
+  }
+}
