@@ -2,10 +2,7 @@
   "jahndoe318": {
     "event": "me",
     "lua": "print(\"cool\")"
-  }
-}
-
-{
+  },
   "NEWUSER2232": {
     "event": "me",
     "lua": "print(\"cool\")"
