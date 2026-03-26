@@ -1,6 +1,6 @@
 {
   "jahndoe318": {
     "event": "me",
-    "lua": "print("cool")"
+    "lua": "print(\"cool\")"
   }
 }
